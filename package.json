@@ -1,6 +1,6 @@
 {
   "name": "use-changed-props",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Hook to output props that have changed",
   "main": "dist/use-changed-props.js",
   "types": "dist/use-changed-props.d.ts",
