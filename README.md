@@ -2,6 +2,8 @@
 
 A React hook to log which props have changed. The hook will also include the changes for each prop, which is useful for tracking down unnecessary work when nothing really changed eg. a reference was updated.
 
+https://www.npmjs.com/package/use-changed-props
+
 ## Demo
 
 https://codepen.io/mozmorris/pen/BaopXRX?editors=1111
